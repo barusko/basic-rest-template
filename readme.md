@@ -1,4 +1,4 @@
-# Backend test Kelea
+# Backend 
 This a backend test to evaluate your level and understanding of the problem to be solved, 
 for this we need you to implement the application as completely as possible, please read the instructions carefully.
 
